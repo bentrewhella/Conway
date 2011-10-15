@@ -1,0 +1,9 @@
+A simple implementation of Conways Game of Life built in Processing.
+
+To Install & run:
+
+1. Download Processing from http://processing.org/download/
+
+2. Make sure you've got a reasonably recent version of Java installed.  To do this go to your terminal / command prompt and type Java.  If it's there you'll see the version number, if not go get it (http://www.java.com/en/download/index.jsp for English version)
+
+3. Open up any of the .pde files, and press the play button.
